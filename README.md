@@ -1,5 +1,2 @@
-# Tic-Tac-Toe
-## public version: B-0.1.0
-
-Feel free to contribute!
-All contributions will be reviewed.
+<h1>Tic Tac Toe</h1>
+Public Version: 0.1.0 
